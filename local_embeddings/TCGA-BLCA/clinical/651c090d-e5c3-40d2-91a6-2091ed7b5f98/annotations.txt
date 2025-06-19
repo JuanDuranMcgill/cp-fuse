@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+6744b667-d5a7-52e0-80b8-28ebda274452	15243	case	ca554128-da9d-4f37-9560-ca083509e01d	Prior malignancy	Notification	2013-01-29T00:00:00	Approved	Patient had an unspecified malignant neoplasm of the testis. No radiation or systemic chemotherapy.

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+30920ce4-35a0-5f87-9133-3a130e0ca61c	15242	case	05935f1d-77c2-46ca-b87a-7a84bce38afd	Prior malignancy	Notification	2013-01-29T00:00:00	Approved	Patient had a melanoma of the lower limb. No radiation or systemic chemotherapy.

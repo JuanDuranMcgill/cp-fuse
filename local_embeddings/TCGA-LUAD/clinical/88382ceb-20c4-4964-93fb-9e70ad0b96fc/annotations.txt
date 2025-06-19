@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+30d0b086-a4c8-56cc-9a04-294c98621a8e	21220	case	102fba48-b23a-46d4-8371-71c11c1a6654	Item is noncanonical	Notification	2014-07-17T00:00:00	Approved	Incomplete distribution. Only Repli-G shipped.

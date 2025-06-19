@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+9f1ae8f0-3651-5652-93a8-bcba5b3a92ea	1227	case	f7e06a10-74ca-4f52-a944-b3f22c016998	Prior malignancy	Notification	2011-01-25T00:00:00	Approved	from Jay Bowen/NWCH

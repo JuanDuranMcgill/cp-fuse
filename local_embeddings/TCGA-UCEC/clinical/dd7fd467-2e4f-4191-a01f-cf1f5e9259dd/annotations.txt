@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2a3f54fe-0e48-5085-8faa-486279732149	20769	case	41dcafa0-b196-46dd-ab07-58cb747c9ebc	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2014-06-16T00:00:00	Approved	systemic treatment given to the prior/other malignancy
+a9aa55cf-a333-585d-be96-3458cd90d4ab	16133	case	41dcafa0-b196-46dd-ab07-58cb747c9ebc	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2013-05-17T00:00:00	Approved	Patient had a prior kidney clear cell carcinoma treated with locoregional radation and systemic chemotherapy.
